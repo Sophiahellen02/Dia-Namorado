@@ -1,23 +1,11 @@
 {
-  "name": "Para Mateus",
-  "short_name": "Mateus ❤️",
-  "description": "Uma declaração de amor feita com carinho.",
-  "start_url": "/ParaMateus",
-  "scope": "/",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#d6336c",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Para Mateus ❤️",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mateus ❤️",
+  "start_url": "/",
+  "theme_color": "#d6336c"
 }
